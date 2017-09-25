@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="buttonLoadPicture" type="id">buttonloadpicture</item>
+    <item name="imgView" type="id">imageview</item>
+    <item name="ImageView" type="id">imageview</item>
+    <item name="textoverimage" type="id">textoverimage</item>
+</resources>
